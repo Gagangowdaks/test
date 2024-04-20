@@ -1,0 +1,39 @@
+
+<html>                                                                           
+<h1>UNORDERED LIST</h1>
+<ul type ="bulates">
+<li> statistics and probability </li>
+<li> basic electrical engineering </li> 
+<li> object oriented programming with c++ </li>
+<li> web designing  </li> 
+<li> computer organization </li> 
+<li> environmental science </li>
+</ul> 
+
+
+<html>
+<h2>ORDERED LIST</h2>
+<ol type ="1" start="5">
+<ol> statistics and probability (SP)  </ol>
+<ol> basic electrical engineering(BEE)  </ol> 
+<ol> object oriented programming with c++(OOPS) </ol>
+<ol>  web designing (WD) </ol>  
+<ol> computer organization (CO)  </ol>  
+<ol> environmental science(EVS)  </ol> 
+</ol> 
+
+
+<html>
+<h3> DESCRIPTOIN LIST </h3>
+<dl> 
+      <dt> prof. Devika mam </dt>
+      <dd> statistics and probability </dd>
+      <dt> Dr,yeshodamma mam .s </dt>
+      <dd> basic electrical engineering </dd>
+      <dt> prof.triveni mam </dt>
+      <dd> object oriented programming with c++ </dd>                                                                                       
+      <dt> prof. ramya  mam </dt>
+      <dd> web designing  </dd>
+      <dt> Dr,jayakumar sir </dt>
+      <dd>  computer organization </dd>
+</dl>                                                                                    
